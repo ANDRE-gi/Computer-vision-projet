@@ -1,4 +1,4 @@
-# Computer-vision-projet
+# xxxxx
 
 Le cancer de la peau, et en particulier le mélanome, représente une menace sérieuse pour la santé mondiale en raison de sa capacité à évoluer rapidement et à devenir mortel s’il n’est pas détecté à temps. La détection précoce est donc cruciale pour améliorer les chances de survie des patients. Cependant, le diagnostic manuel par les dermatologues peut être sujet à des erreurs dues à la variabilité des lésions cutanées et à la charge de travail importante. Dans ce contexte, l’intelligence artificielle (IA), notamment les réseaux de neurones convolutionnels (CNN) et les techinques de vision par ordinateur offrent une solution prometteuse pour assister les professionnels de santé en automatisant et en améliorant la précision du diagnostic.
 	
